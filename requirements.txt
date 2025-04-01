@@ -1,3 +1,4 @@
 Flask==2.1.1  # Your Flask version (you can leave this as it is)
 Werkzeug==2.0.3  # Downgrade Werkzeug to a compatible version
 gunicorn==20.1.0
+requests==2.28.2  # or the appropriate version
